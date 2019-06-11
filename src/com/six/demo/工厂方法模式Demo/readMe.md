@@ -1,4 +1,4 @@
-##工厂方法模式。
+##工厂方法模式 Factory Method Pattern
 ###一.其定义为：
 Define an interface for creating an object,but let subclasses decide which class to
 instantiate.Factory Method lets a class defer instantiation to subclasses.（定义一个用于创建对象的

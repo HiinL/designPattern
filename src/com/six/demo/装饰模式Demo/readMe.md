@@ -1,4 +1,4 @@
-##装饰模式
+##装饰模式 Decorator Pattern
 ###一.定义
 Attach additional
 responsibilities to an object dynamically keeping the same interface.Decorators provide a flexible

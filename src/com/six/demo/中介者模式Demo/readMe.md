@@ -1,4 +1,4 @@
-##中介者模式
+##中介者模式 Mediator Pattern
 ###一.定义为：
 Define an object that encapsulates how a set of objects
 interact.Mediator promotes loose coupling by keeping objects from referring to each other
